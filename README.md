@@ -10,4 +10,5 @@ https://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digit
 
 Each datapoint is a 8x8 image of a digit. The images attribute of the dataset stores 8x8 arrays of grayscale values for each image. The target attribute of the dataset stores the digit each image represents.   
 
+![image](https://user-images.githubusercontent.com/74888669/172577321-edd9ee0e-189d-4bf0-9cce-7c18cc02dc8a.png)
 
